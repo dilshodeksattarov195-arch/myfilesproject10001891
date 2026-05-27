@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrecrypt",
+        "uuid": 10933762,
+        "checksum": "jyx098"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
